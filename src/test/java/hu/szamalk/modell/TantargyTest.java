@@ -17,4 +17,6 @@ class TantargyTest {
         Tantargy tantargy1 = new Tantargy("Informatika", 5, "Prof László", 1, true);
         assertTrue(tantargy1.getKredit() > 0 && tantargy1.getKredit() < 6);
     }
+
+    
 }
